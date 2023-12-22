@@ -39,41 +39,39 @@ def Menu():
 
 
 # 1
-    other_app_url = "https://sankarshanex3tryl1.streamlit.app/"
-
+    other_app_url = "https://experiment1aaa.streamlit.app/
 # Create a hyperlink to the other Streamlit app
     st.markdown(f"EXPERIMENT NO 1 [experiment no 1]({other_app_url}).")
 
 
 # 2
-    other_app_url = "https://sankarshanex3tryl1.streamlit.app/"
-
+    other_app_url2 = "https://experiment2-arpita.streamlit.app/
 # Create a hyperlink to the other Streamlit app
-    st.markdown(f"EXPERIMENT NO 2 [experiment no 2]({other_app_url}).")
+    st.markdown(f"EXPERIMENT NO 2 [experiment no 2]({other_app_url2}).")
 
 
 
 # 3
-    other_app_url = "https://sankarshanex3tryl1.streamlit.app/"
+    other_app_url3 = "https://sankarshanex3tryl1.streamlit.app/"
 
 # Create a hyperlink to the other Streamlit app
-    st.markdown(f"EXPERIMENT NO 3 [experiment no 3]({other_app_url}).")
+    st.markdown(f"EXPERIMENT NO 3 [experiment no 3]({other_app_url3}).")
 
 
 
 # 4
-    other_app_url = "https://sankarshanex3tryl1.streamlit.app/"
+    other_app_url4 = "https://sankarshanex3tryl1.streamlit.app/"
 
 # Create a hyperlink to the other Streamlit app
-    st.markdown(f"EXPERIMENT NO 4 [experiment no 4]({other_app_url}).")
+    st.markdown(f"EXPERIMENT NO 4 [experiment no 4]({other_app_url4}).")
 
 
 
 # 5
-    other_app_url = "https://sankarshanex5tryl4.streamlit.app/"
+    other_app_url5 = "https://sankarshanex5tryl4.streamlit.app/"
 
 # Create a hyperlink to the other Streamlit app
-    st.markdown(f"EXPERIMENT NO 5 [experiment no 5]({other_app_url}).")
+    st.markdown(f"EXPERIMENT NO 5 [experiment no 5]({other_app_url5}).")
 
 
 
