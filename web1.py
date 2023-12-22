@@ -39,7 +39,7 @@ def Menu():
 
 
 # 1
-    other_app_url = "https://experiment1aaa.streamlit.app/
+    other_app_url = "https://experiment1aaa.streamlit.app/"
 # Create a hyperlink to the other Streamlit app
     st.markdown(f"EXPERIMENT NO 1 [experiment no 1]({other_app_url}).")
 
